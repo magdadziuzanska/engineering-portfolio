@@ -1,2 +1,2 @@
 # engineering-portfolio
-Engineering projects, CAD design, mechanical analysis, and experimental physics.
+Zbiór projektów realizowanych na studiach i poza nimi, obejmujących m.in. projektowanie techniczne, obliczenia inżynierskie i eksperymenty fizyczne.
